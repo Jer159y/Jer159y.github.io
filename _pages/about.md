@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Mathematical Sciences, Ulsan Institute of Science and Technology (UNIST)</a>. looacker09@unist.ac.kr. 
+subtitle: <a href='#'>looacker09@unist.ac.kr</a>. . 
 
 profile:
   align: right
@@ -19,8 +19,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-The mathematical sciences graduate student in combined MS/PhD.
-I am interested in control and signal processing with nonlinear dynamics, and the intersection of neuroscience and AI.
 
+I am interested in control and signal processing with nonlinear dynamics, and the intersection of neuroscience and AI.  
+
+hard to live diligently  
+my goal is to become upstart..
+
+
+
+The graduate student in combined MS/PhD.  
+Department of Mathematical Sciences, Ulsan Institute of Science and Technology (UNIST).
 
 
