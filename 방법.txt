@@ -1,0 +1,20 @@
+wsl에서 git 프로젝트 폴더로 이동
+최근 커밋된 내용이 로컬로 반영 : git pull origin(리모트 리포지토리 기본 이) main(메인 브랜치)
+(git remote -v : 연결된 저장소 확인)
+
+
+1)
+터미널에 bundle exec jekyll serve 입력.
+http://127.0.0.1:4000 치면 들어가짐.
+
+2) Docker compse를 사용해서 의존성 설치 없이 docker-compose up으로 웹사이트 실행 가능.
+jekyll을 로컬에 설치하고 bundle exec jekyll serve로 실행하던 방식을 Docker 환경으로 대체한 것.
+뜨는 링크 눌러서 들어가면 됨.
+
+ctrl-c 누르면 서버 닫힘.
+
+변경된 파일 확인 : git status
+변경 사항을 스테이지 : git add .
+커밋 : git commit -m "Update blog content"
+github repo로 푸시 : git push origin main
+
